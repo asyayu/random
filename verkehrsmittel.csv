@@ -1,8 +1,8 @@
-"verkehrsmittel","anzahl"
-"Auto",0
-"zu Fuß",0
-"Fahrrad",0
-"ÖPNV",0
-"Regionalzüge",0
-"Roller/Moped/Motorrad",0
-"E-Scooter",0
+"verkehrsmittel","var1","var2"
+"Auto",0,7
+"zu Fuß",0,6
+"Fahrrad",0,4
+"ÖPNV",0,5
+"Regionalzüge",0,2
+"Roller/Moped/Motorrad",0,1
+"E-Scooter",0,3
